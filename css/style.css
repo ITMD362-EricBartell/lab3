@@ -30,6 +30,4 @@ input, #submit{
   border: 0;
   border-radius: 5px;
   padding-bottom: 5px;
-  position: absolute;
-  text-align: center;
 }
