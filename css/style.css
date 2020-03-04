@@ -19,6 +19,7 @@ h1, p{
   color: #c2c2c2;
   text-align: center;
   padding: 48px;
+  font-family: 'Questrial', Geneva, sans-serif;
 }
 h1{
   font-size: 64px;
@@ -31,6 +32,7 @@ input, #submit{
   border: 0;
   border-radius: 5px;
   margin: 36px;
+  font-family: 'Lato', Verdana, sans-serif;
 }
 input{
   font-size: 36px;
