@@ -12,9 +12,6 @@ label{
   padding: 5px;
   display: inline-block;	
 }
-ul{
-  text-align: center;
-}
 li{
   display: block;
 }
@@ -23,15 +20,16 @@ h1, p{
   text-align: center;
 }
 h1{
-  font-size: 18px;
+  font-size: 32px;
 }
 p, li{
-  color: #5c5c5c;
-  font-size: 14px;
+  font-size: 24px;
 }
 input, #submit{
   background-color: #c2c2c2;
   border: 0;
   border-radius: 5px;
   padding-bottom: 5px;
+  position: absolute;
+  text-align: center;
 }
