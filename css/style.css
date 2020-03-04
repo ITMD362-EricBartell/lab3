@@ -20,15 +20,15 @@ h1, p{
   text-align: center;
 }
 h1{
-  font-size: 32px;
+  font-size: 64px;
 }
 p, li{
-  font-size: 24px;
+  font-size: 48px;
 }
 input, #submit{
   background-color: #c2c2c2;
   border: 0;
   border-radius: 5px;
-  padding: 14px;
-  margin: 18px;
+  padding: 28px;
+  margin: 36px;
 }
