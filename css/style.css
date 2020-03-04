@@ -26,6 +26,7 @@ h1{
 }
 p, li{
   font-size: 48px;
+  font-family: 'Lato', Verdana, sans-serif;
 }
 input, #submit{
   background-color: #c2c2c2;
