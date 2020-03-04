@@ -8,9 +8,12 @@ ol{
   background-color: #969696;
   border-radius: 15px;
 }
-label,li{
+label{
   padding: 5px;
   display: inline-block;	
+}
+li{
+  display: block;
 }
 h1, p{
   color: #c2c2c2;
