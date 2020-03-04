@@ -33,6 +33,7 @@ input, #submit{
   margin: 36px;
 }
 input{
+  font-size: 36px;
   padding: 18px;
 }
 #submit{
