@@ -14,6 +14,7 @@ label{
 }
 li{
   display: block;
+  float: left;
 }
 h1, p{
   color: #c2c2c2;
@@ -25,9 +26,14 @@ h1{
 p, li{
   font-size: 14px;
 }
-input, #input-submit{
+input, #submit{
   background-color: #c2c2c2;
   border: 0;
   border-radius: 5px;
-
+  padding-bottom: 5px;
+  margin-left: auto;
+  margin-right: auto;
+}
+input{
+  float: right;
 }
