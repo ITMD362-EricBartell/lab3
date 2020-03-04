@@ -6,4 +6,22 @@ ol{
   margin-left: auto;
   margin-right: auto;
   background-color: #969696;
+  border-radius: 15px;
+}
+li{
+  padding: 5px;
+  display: inline-block;	
+}
+h1, p{
+  color: #c2c2c2;
+  text-align: center;
+}
+h1{
+  font-size: 18px;
+}
+p, li{
+  font-size: 14px;
+}
+input{
+  background-color: #969696;
 }
