@@ -12,6 +12,9 @@ label{
   padding: 5px;
   display: inline-block;	
 }
+ul{
+  text-align: center;
+}
 li{
   display: block;
 }
@@ -23,6 +26,7 @@ h1{
   font-size: 18px;
 }
 p, li{
+  color: #5c5c5c;
   font-size: 14px;
 }
 input, #submit{
@@ -30,6 +34,4 @@ input, #submit{
   border: 0;
   border-radius: 5px;
   padding-bottom: 5px;
-  margin-left: auto;
-  margin-right: auto;
 }
